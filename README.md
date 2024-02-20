@@ -1,1 +1,1 @@
-# Parkinson-s_disease_prediction
+# Parkinsons_disease_prediction
